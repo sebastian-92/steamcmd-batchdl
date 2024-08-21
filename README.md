@@ -1,4 +1,4 @@
-# steamcmd-collection
+# steamcmd-batchdl
 ## quick-n-dirty js to generate a batch script for steamcmd to download an entire collection at once
 ### I'm assuming you have steamcmd installed
 ## instructions 
